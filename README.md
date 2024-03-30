@@ -6,4 +6,4 @@ Se quiser dar olhada nas representações das arvores, segue o link:
 https://drive.google.com/file/d/1c2XcoGMiCT9JExcdBAORi25khwOWXs7r/view?usp=drive_link
 
 Código de Huffamn:
-https://drive.google.com/file/d/15_nUOGo_hTdp5BsLCSnCuS5_4DHr2Qd/view?usp=drive_link
+https://drive.google.com/file/d/15_nU-OGo_hTdp5BsLCSnCuS5_4DHr2Qd/view?usp=drive_link
